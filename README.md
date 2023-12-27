@@ -8,10 +8,11 @@ blip2.py is used to process conversational AI models that describe details of in
 # Environment
 The following packages need to be installed.
 
-pip3 install torch==2.1.0 torchvision torchaudio
+<code>pip3 install torch==2.1.0 torchvision torchaudio
 pip3 install transformers==4.34.1 bitsandbytes==0.41.1 peft==0.6.0 datasets scipy
-pip3 install tk pygame numpy opencv-python 
+pip3 install tk pygame numpy opencv-python</code>
 
 # Run
 Make sure that the computer and the drone are in the same local network, and the drone's IP is set to 192.168.10.1.
-python3 tello_army.py
+
+<code>python3 tello_army.py</code>
