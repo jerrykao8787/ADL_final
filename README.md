@@ -15,7 +15,9 @@ pip3 install tk pygame numpy opencv-python
 
 # Yolov7-tiny Models
 Go to the following URL to download the yolov7-tiny model and put it in the ./data folder
+
 cfg: https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov7-tiny.cfg
+
 weights: https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov7-tiny.weights
 
 # Run
