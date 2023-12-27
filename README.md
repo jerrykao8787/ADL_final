@@ -13,7 +13,7 @@ pip3 install transformers==4.34.1 bitsandbytes==0.41.1 peft==0.6.0 datasets scip
 pip3 install tk pygame numpy opencv-python
 </code></pre>
 
-# Yolov7-tiny Models
+# Yolov7-tiny Model
 Go to the following URL to download the yolov7-tiny model and put it in the ./data folder
 
 cfg: https://raw.githubusercontent.com/AlexeyAB/darknet/master/cfg/yolov7-tiny.cfg
